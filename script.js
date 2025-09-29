@@ -8,7 +8,7 @@ const motivationalMessages = [
 ]
 
 // Launch date
-const launchDate = new Date("2025-09-29T00:00:00")
+const launchDate = new Date("2025-10-10T10:10:10")
 
 // DOM elements
 const daysElement = document.getElementById("days")
